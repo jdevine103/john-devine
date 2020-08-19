@@ -126,16 +126,13 @@ body {
     padding-bottom: 200px;
 }
 .proj {
-    border: white 3px solid;
+    border: white 1px solid;
     border-radius: 3px;
+    margin: .1rem;
 }
 
 .portfolio-img-div {
     text-align: center;
-}
-
-.projects {
-    margin-top: 50px;
 }
 
 .project-title {
@@ -144,26 +141,8 @@ body {
     text-align: center;
 }
 
-.project-cover {
-    transition: .3s;
-    margin-bottom: 60px;
-    
-}
-
-.project-cover:hover {
-    transform: scale(1.25);
-    position: relative;
-    z-index: 1; 
-    background-color: black;
-    box-shadow: 0 0 20px 20px black;
-}
-
 .project-caption span {
     visibility: visible;
-}
-
-.project-caption:hover span {
-    visibility: hidden;
 }
 /*contact section*/
 
