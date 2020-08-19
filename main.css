@@ -94,8 +94,8 @@ body {
 }
 
 #profile-pic {
-    width: 457px;
-    height: 485px;
+    /*width: 457px;
+    height: 485px;*/
     box-shadow: 1px 10px 10px;
 }
 
@@ -126,7 +126,8 @@ body {
     padding-bottom: 200px;
 }
 .proj {
-    border: white 1px solid;
+    border: white 3px solid;
+    border-radius: 3px;
 }
 
 .portfolio-img-div {
