@@ -115,6 +115,10 @@ body {
     text-align: center;
     padding-bottom: 10px;
 }
+.skill-bottom ul{
+    list-style-type: none;
+    text-align: center;
+}
 .skill-list-title {
     font-size: 30px;
     font-weight: 600;
