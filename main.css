@@ -111,7 +111,7 @@ body {
 .skill ul{
     list-style-type: none;
     text-align: center;
-
+    padding-inline-start: 0px;
 }
 .skill-bottom ul{
     list-style-type: none;
