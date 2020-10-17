@@ -139,13 +139,17 @@ body {
     padding-bottom: 200px;
 }
 .proj {
-    border: white 1px solid;
+    border:grey 2.5px solid;
     border-radius: 3px;
     margin: .2rem; 
 }
 
 .portfolio-img-div {
+    border:grey 2.5px solid;
+    border-radius: 3px;
     text-align: center;
+    background-color: white !important;
+    color: black;
 }
 .projectitem {
     padding: 10rem;
